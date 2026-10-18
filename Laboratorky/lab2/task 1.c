@@ -29,7 +29,7 @@ int main() {
         printf("Кількість виконаних операцій: %d\n", op_count);
     }
     else {
-        printf("n is invalid\n");
+        printf("n введено некоректно\n");
     }
 
     return 0;

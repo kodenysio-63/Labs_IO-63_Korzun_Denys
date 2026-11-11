@@ -123,7 +123,7 @@ int main()
 
 ## 5) Тестування:
 
-1) <img width="998" height="700" alt="image" src="https://github.com/user-attachments/assets/4bff7c0a-1bb3-4acf-896f-8a0b27459324" />
+1) <img width="1010" height="692" alt="image" src="https://github.com/user-attachments/assets/7472948f-e962-49c5-a76a-a15837bd2f14" />
 
 2) <img width="1102" height="704" alt="image" src="https://github.com/user-attachments/assets/65ad9f97-8a2e-4b5d-b090-2f7749fc57ca" />
 
@@ -134,5 +134,4 @@ int main()
 5) <img width="1128" height="656" alt="image" src="https://github.com/user-attachments/assets/4feaf0d6-0860-4004-bb99-0f55b2699199" />
 
 ## 6) Висновок:
-
-
+Під час виконання лабораторної роботи я закріпив знання з застосування пошуку за другим алгоритмом, який знаходить найлівіше задане значення. Також варіант двійкового пошуку в деяких ситуаціях виконує менше кроків ніж лінійний, при відсортованому масиві даних. При виконанні роботи проблем не виникло, а матеріал добре засвоєний.

@@ -102,8 +102,9 @@ int main()
 
         if (found_I != -1)
         {
-            printf("Елемент присутній за координатами: [%d][%d]\n", k, found_I);
+            printf("Елемент присутній за координатами: [%d][%d]\n", k + 1, found_I + 1);
             match_count++;
+            break;
         }
     }
 
@@ -115,3 +116,23 @@ int main()
     return 0;
 }
 ```
+## 4) Вхідні дані:
+1) У самому коді можна задати розміри матриці.
+2) Вводиться дійсне число яке користувач хоче знайти.
+3) Також вводиться елементи матриці (за незменшенням), які теж можуть бути дійсними числами.
+
+## 5) Тестування:
+
+1) <img width="998" height="700" alt="image" src="https://github.com/user-attachments/assets/4bff7c0a-1bb3-4acf-896f-8a0b27459324" />
+
+2) <img width="1102" height="704" alt="image" src="https://github.com/user-attachments/assets/65ad9f97-8a2e-4b5d-b090-2f7749fc57ca" />
+
+3) <img width="1082" height="670" alt="image" src="https://github.com/user-attachments/assets/d1942e5c-e64e-4841-8944-422eb3d12f8b" />
+
+4) <img width="1038" height="670" alt="image" src="https://github.com/user-attachments/assets/cf679234-8318-40a2-8030-e32c352988b5" />
+
+5) <img width="1128" height="656" alt="image" src="https://github.com/user-attachments/assets/4feaf0d6-0860-4004-bb99-0f55b2699199" />
+
+## 6) Висновок:
+
+
